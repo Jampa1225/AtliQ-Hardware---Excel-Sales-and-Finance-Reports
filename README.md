@@ -1,4 +1,4 @@
-# AtliQ-Reports
+# AtliQ-Excel Sales and Finacial Reports
 
 # Project Objectives
 
